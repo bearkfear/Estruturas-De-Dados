@@ -1,5 +1,5 @@
 # Trabalho de estrutura de dados
-## Universidade Federal De Santa Maria (site.ufsm.br)
+## Universidade Federal De Santa Maria (https://www.ufsm.br/)
 
 Trabalho para o curso de sistemas para internet da cadeira do segundo semestre (http://csi.ufsm.br/) 
 
