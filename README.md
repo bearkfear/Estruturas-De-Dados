@@ -33,7 +33,7 @@ substituir o aluno.
 * Remover alunos com base na sua matrícula. Caso exista mais de um aluno naquela
 posição, manter a organização dos alunos remanescentes.
 
-####
+#### Visualização
 * Exibir o aluno com base em sua matricula, bem como quantos passos foram necessários
 para encontrá-lo. Ex: estava no vetor, um passo. Estava na lista encadeada, N passos + 1.
 
